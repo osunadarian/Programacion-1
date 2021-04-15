@@ -4,7 +4,9 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "funciones.h"
+#include "calculos.h"
+#include "menu.h"
+#include "validaciones.h"
 
 int main()
 {
