@@ -66,7 +66,7 @@ int factorial(float num, long int *factResult)
 
     entero = numberInteger(num);
 
-    if(num>0 && entero==1 && factResult!=NULL && num<=12)
+    if(num>=0 && entero==1 && factResult!=NULL && num<=12)
     {
         factorial = 1;
 
